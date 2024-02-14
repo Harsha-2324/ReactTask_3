@@ -1,5 +1,3 @@
-**This Repository is created for React Task 3 : To-Do List**
-
 # REACT TASK 3 TO-DO LIST
 
 A simple To-Do List Task is built using React and Bootstrap for a Dynamic Responsive Webpage.

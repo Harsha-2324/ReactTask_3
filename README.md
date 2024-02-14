@@ -1,11 +1,13 @@
-# ToDo Task Management App
+**This Repository is created for React Task 3 : To-Do List**
 
-A simple yet efficient To-Do Task Management application built using React and Bootstrap.
+# REACT TASK 3 TO-DO LIST
+
+A simple To-Do List Task is built using React and Bootstrap for a Dynamic Responsive Webpage.
 
 
 ## Table of Contents
 
-- [ToDo Task Management App](#todo-task-management-app)
+- [REACT TASK 3 TO-DO LIST](#react-task-3-to-do-list)
   - [Table of Contents](#table-of-contents)
   - [Features](#features)
   - [Programming Languages Used](#programming-languages-used)
@@ -57,4 +59,4 @@ A simple yet efficient To-Do Task Management application built using React and B
 
 ## Nelify Deployed URL
 
-🔸*Check out My Shopping Cart Here*👉🏻 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://shopping-cart-react-task-2.netlify.app/#)
+🔸*Check out My To-Do List Here*👉🏻 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://to-do-list-react-task-3.netlify.app/)

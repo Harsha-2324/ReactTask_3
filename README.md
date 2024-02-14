@@ -10,7 +10,7 @@ A simple yet efficient To-Do Task Management application built using React and B
   - [Features](#features)
   - [Programming Languages Used](#programming-languages-used)
   - [Technologies Used](#technologies-used)
-  - [Nelify Deployed Website](#nelify-deployed-website)
+  - [Nelify Deployed URL](#nelify-deployed-url)
 
 
 ## Features
@@ -55,6 +55,6 @@ A simple yet efficient To-Do Task Management application built using React and B
 </div>
 
 
-## Nelify Deployed Website
+## Nelify Deployed URL
 
 🔸*Check out My Shopping Cart Here*👉🏻 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://shopping-cart-react-task-2.netlify.app/#)
